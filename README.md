@@ -17,3 +17,6 @@ npm run build
 
 ### Built Using
 Vue JS
+
+### Online Link
+https://tafseer-hussain.netlify.app/
