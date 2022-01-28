@@ -1,0 +1,25 @@
+{
+    "bgImage": "/img/bg/testimonial.png",
+    "testimonials": [
+        {
+            "desc": "Tafseer was extremely proactive and forthcoming with ideas he had a great understanding of the project.",
+            "author": "Jessica Lowe",
+            "designation": "Upwork "
+        },
+        {
+            "desc": "The freelancer had great communication skills, sought to understand the project, and then went beyond the initial description to think a few steps ahead. I highly recommend him.",
+            "author": "Paul Warren",
+            "designation": "Upwork"
+        },
+        {
+            "desc": "Tafseer did a great job for us. We had a website with a lot of pages that needed to be redesigned in Elementor. Tafseer got it done on schedule and I recommended him to a colleague who is already using him and is please so far as well.",
+            "author": "James Bronner",
+            "designation": "Upwork"
+        },
+        {
+            "desc": "It was very pleasant working with Tafseer, and would absolutely use his services for our future projects. Work was completed on time, and professionally delivered. Great communication throughout the entire project. Highly recommend Tafseer. Thank you",
+            "author": "Ratna Colluru",
+            "designation": "Upwork"
+        }
+    ]
+}

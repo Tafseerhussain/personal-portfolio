@@ -1,0 +1,43 @@
+{
+    "about": {
+        "sectionTitle": "About Me",
+        "sectionTitleWaterText": "About Me",
+        "aboutMe": " I have 6+ years of experience in application designing, development, and UI/UX. An expert in WordPress, PHP, JS, HTML/CSS, MySQL, AWS, Laravel, Vue.js, Photoshop, Illustrator and Adobe XD. I firmly believe in action and when given opportunity, I will prove that I am much more than what I have written about myself."
+    },
+    "socials": [
+        {
+            "icon": "fa fa-linkedin",
+            "link": "https://www.linkedin.com/in/sajjad-aslam-3a0682184/"
+        }
+    ],
+    "aboutDetails": {
+        "image": "/img/about/about.jpeg",
+        "heading": "I'm Tafseer, <br> Full-Stack Developer <br>UX/UI Designer <br>Freelancer",
+        "infoList": [
+            {
+                "label": "Name",
+                "info": "Tafseer Hussain"
+            },
+            {
+                "label": "Email",
+                "info": "tafseerhussain88@gmail.com"
+            },
+            {
+                "label": "Skype",
+                "info": "tafseer.hussain6"
+            },
+            {
+                "label": "Website",
+                "info": "tafseer.website"
+            },
+            {
+                "label": "Freelance",
+                "info": "Available"
+            },
+            {
+                "label": "Phone",
+                "info": "(+92)331-6474720"
+            }
+        ]
+    }
+}

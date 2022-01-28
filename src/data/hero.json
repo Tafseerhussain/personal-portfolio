@@ -1,0 +1,8 @@
+{
+    "hero": {
+        "subTitle": "Hi, I'm <span>Tafseer</span>",
+        "title": "Full-Stack Developer, UI/UX Designer, Freelancer",
+        "bgImg": "/img/hero/world.png",
+        "image": "/img/hero/hero3.png"
+    }
+}

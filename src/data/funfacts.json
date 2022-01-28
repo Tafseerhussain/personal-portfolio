@@ -1,0 +1,36 @@
+{
+    "funfacts": [
+        {
+            "title": "HTML/CSS",
+            "counter": "95"
+        },
+        {
+            "title": "Bootstrap",
+            "counter": "95"
+        },
+        {
+            "title": "PHP/Laravel",
+            "counter": "95"
+        },
+        {
+            "title": "JS/Ajax/Vue",
+            "counter": "90"
+        },
+        {
+            "title": "WordPress",
+            "counter": "90"
+        },
+        {
+            "title": "Hugo",
+            "counter": "90"
+        },
+        {
+            "title": "Illustrator / Photoshop",
+            "counter": "85"
+        },
+        {
+            "title": "Figma / Adobe XD",
+            "counter": "90"
+        }
+    ]
+}
