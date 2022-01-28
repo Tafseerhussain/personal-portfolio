@@ -19,4 +19,4 @@ npm run build
 Vue JS
 
 ### Online Link
-https://tafseer-hussain.netlify.app/
+https://ecstatic-boyd-3ef687.netlify.app
